@@ -12,4 +12,4 @@
 
 - 除了Mesosphere新的集群部署功能之外，两家公司还合作整合Kubernetes和Mesos，给共同的使用者可以用Kubernetes管理Docker容器和用Mesos管理整个集群（包括Docker容器）的选择。从最近的一次采访中引用Docker创始人Solomon Hykes的一句话，“如果Docker应用是乐高积木的话，Kubernetes就将是建造千年隼号（译者注：Millennium Falcon是《星球大战》系列作品中一艘虚构的宇宙飞船）的配件，Mesos集群就像是整个星球大战宇宙的建造积木”。
 
-
+- 在对Mesosphere合作伙伴采访中，Google Cloud的产品经理Craig McLuckie描述了Google的系统从需要“过度”的努力去管理到他们今天自动化管理的演变。它被移动到容器里，然后作为数据中心操作系统。如果你愿意的话，它将会起重要的作用。
