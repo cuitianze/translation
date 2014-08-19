@@ -10,6 +10,6 @@
 
 - Mesosphere是一个创业公司，它建立在Apache Mesos技术之上。Mesos 本质上是一个系统的开源版本，Google用来自动化它的数据中心，最终结果是，许多应用程序和服务可以同时共享同一资源，为了优化运行，系统确保了每个应用和服务得到了它所需要的一切。mesophere使得它更容易部署Mesos，从中受益，并在其上添加一些工具。
 
-- 除了Mesosphere新的集群部署功能，两家公司还将
+- 除了Mesosphere新的集群部署功能之外，两家公司还合作整合Kubernetes和Mesos，给共同的使用者可以用Kubernetes管理Docker容器和用Mesos管理整个集群（包括Docker容器）的选择。从最近的一次采访中引用Docker创始人Solomon Hykes的一句话，“如果Docker应用是乐高积木的话，Kubernetes就将是建造千年隼号（译者注：Millennium Falcon是《星球大战》系列作品中一艘虚构的宇宙飞船）的配件，Mesos集群就像是整个星球大战宇宙的建造积木”。
 
 
