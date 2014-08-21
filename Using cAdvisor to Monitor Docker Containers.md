@@ -3,8 +3,12 @@
 
 ### Using cAdvisor to Monitor Docker Containers
 
+### 使用cAdvisor监控Docker容器
 
-Google first created cAdvisor to monitor their own lmctfy containers and added Docker container support (those that use the default lib container execdriver). cAdvisor is short for Container Advisor. You can use cAdvisor to get a detailed look into the resource usage and the various performance characteristics of your running containers. cAdvisor includes a simple UI to view the live data, a simple API to retrieve the data programmatically, and the ability to store the data in an external InfluxDB.
+- Google first created cAdvisor to monitor their own lmctfy containers and added Docker container support (those that use the default lib container execdriver). cAdvisor is short for Container Advisor. You can use cAdvisor to get a detailed look into the resource usage and the various performance characteristics of your running containers. cAdvisor includes a simple UI to view the live data, a simple API to retrieve the data programmatically, and the ability to store the data in an external InfluxDB.
+
+- Google首先开发了cAdvisor来监控他们自己的Imctfy容器，并添加了Docker容器支持（那些使用默认库容器的执行驱动） 
+
 
 We’ll be taking an introductory look into cAdvisor.
 
